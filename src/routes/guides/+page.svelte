@@ -32,6 +32,21 @@
     <h1 class="text-5xl font-bold mb-12">Guides</h1>
 
     <div class="mb-12">
+        <!-- Own Guide -->
+        <h2 class="text-3xl font-semibold mb-4 mt-12 flex items-center">
+            <Lightbulb class="w-8 h-8 mr-2" />
+            Own Guides
+        </h2>
+        <div class="w-full flex gap-8 flex-wrap scrollbar-hide">
+            <!-- Cards here -->
+            <GuideCard
+                title="Wiki Workers Rules and Tracking"
+                description="Rules and Guidelines for Wiki Workers and a list of countries and their status."
+                href="/guides/read/beginner/wiki-workers"
+                hueRotate="100">
+                <Lightbulb class="w-28 h-28"></Lightbulb>
+            </GuideCard>
+        </div>
         <h2 class="text-3xl font-semibold mb-4 flex items-center">
             <Sprout class="w-8 h-8 mr-2" />
             Beginner
