@@ -183,7 +183,7 @@
     </thead>
     <tbody>
       <tr>
-        <td><b>Open</b></td><td>No page on the official wiki existing.</td>
+        <td><b>❌ Open</b></td><td>No page on the official wiki existing.</td>
       </tr>
       <tr
         ><td><b>Existing (Info)</b></td><td
@@ -236,9 +236,260 @@
     </thead>
     <tbody>
       <tr>
-        <td><b>Albania</b></td><td>Editing</td><td>Existing (not much info)</td
-        ><td>Nacho17, w0lfzk1nd</td>
+        <td><b>Albania</b></td><td>✍️ Editing</td><td>✅ Exists (not much info)</td><td>Nacho17, w0lfzk1nd</td>
       </tr>
+      <tr>
+        <td><b>Andorra</b></td>
+        <td>✅ Completed</td>
+        <td>✅ Exists (Good Coverage)</td>
+        <td>None of us</td>
+      </tr>
+      <tr>
+        <td><b>Austria</b></td>
+        <td>❌ Open</td>
+        <td>❌ Open</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td><b>Belarus</b></td>
+        <td>❌ Open</td>
+        <td>❌ Open</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td><b>Belgium</b></td>
+        <td>❌ Open</td>
+        <td>❌ Open</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td><b>Bosnia and Herzegovina</b></td>
+        <td>❌ Open</td>
+        <td>❌ Open</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td><b>Bulgaria</b></td>
+        <td>❌ Open</td>
+        <td>❌ Open</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td><b>Croatia</b></td>
+        <td>❌ Open</td>
+        <td>❌ Open</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td><b>Czechia</b></td>
+        <td>❌ Open</td>
+        <td>❌ Open</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td><b>Denmark</b></td>
+        <td>❌ Open</td>
+        <td>✅ Exists</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td><b>Estonia</b></td>
+        <td>❌ Open</td>
+        <td>❌ Open</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td><b>Finland</b></td>
+        <td>❌ Open</td>
+        <td>✅ Exists (not much)</td>
+        <td>w0lfzk1nd</td>
+      </tr>
+      <tr>
+        <td><b>France</b></td>
+        <td>❌ Open</td>
+        <td>❌ Open</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td><b>Germany</b></td>
+        <td>❌ Open</td>
+        <td>✅ Exists (not much)</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td><b>Greece</b></td>
+        <td>❌ Open</td>
+        <td>❌ Open</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td><b>Hungary</b></td>
+        <td>❌ Open</td>
+        <td>❌ Open</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td><b>Iceland</b></td>
+        <td>❌ Open</td>
+        <td>❌ Open</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td><b>Ireland</b></td>
+        <td>❌ Open</td>
+        <td>❌ Open</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td><b>Italy</b></td>
+        <td>❌ Open</td>
+        <td>❌ Open</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td><b>Kosovo</b></td>
+        <td>❌ Open</td>
+        <td>❌ Open</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td><b>Lativa</b></td>
+        <td>❌ Open</td>
+        <td>❌ Open</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td><b>Lichtenstein</b></td>
+        <td>❌ Open</td>
+        <td>❌ Open</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td><b>Lithuania</b></td>
+        <td>❌ Open</td>
+        <td>❌ Open</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td><b>Luxembourg</b></td>
+        <td>❌ Open</td>
+        <td>❌ Open</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td><b>Malta</b></td>
+        <td>❌ Open</td>
+        <td>❌ Open</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td><b>Moldova</b></td>
+        <td>❌ Open</td>
+        <td>❌ Open</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td><b>Monaco</b></td>
+        <td>❌ Open</td>
+        <td>❌ Open</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td><b>Montenegro</b></td>
+        <td>❌ Open</td>
+        <td>❌ Open</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td><b>Netherlands</b></td>
+        <td>❌ Open</td>
+        <td>❌ Open</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td><b>North Macedonia</b></td>
+        <td>❌ Open</td>
+        <td>❌ Open</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td><b>Norway</b></td>
+        <td>❌ Open</td>
+        <td>✅ Exists (not much)</td>
+        <td>w0lfzk1nd</td>
+      </tr>
+      <tr>
+        <td><b>Poland</b></td>
+        <td>❌ Open</td>
+        <td>❌ Open</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td><b>Portugal</b></td>
+        <td>✅ Completed</td>
+        <td>✅ Exists (good coverage)</td>
+        <td>Gnomes (None of us)</td>
+      </tr>
+      <tr>
+        <td><b>Romania</b></td>
+        <td>❌ Open</td>
+        <td>❌ Open</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td><b>San Marino</b></td>
+        <td>❌ Open</td>
+        <td>❌ Open</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td><b>Serbia</b></td>
+        <td>✅ Completed</td>
+        <td>✅ Exists (mid coverage)</td>
+        <td>IceB3r (None of us)</td>
+      </tr>
+      <tr>
+        <td><b>Slovakia</b></td>
+        <td>❌ Open</td>
+        <td>❌ Open</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td><b>Spain</b></td>
+        <td>❌ Open</td>
+        <td>❌ Open</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td><b>Sweden</b></td>
+        <td>❌ Open</td>
+        <td>✅ Exists (not much)</td>
+        <td>w0lfzk1nd</td>
+      </tr>
+      <tr>
+        <td><b>Switzerland</b></td>
+        <td>❌ Open</td>
+        <td>❌ Open</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td><b>United Kingdom</b></td>
+        <td>❌ Open</td>
+        <td>✅ Exists (not much)</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td><b>Ukraine</b></td>
+        <td>❌ Open</td>
+        <td>❌ Open</td>
+        <td>None</td>
+      </tr>
+      <tr>
+        <td><b>Vatican City</b></td>
+        <td>❌ Open</td>
+        <td>❌ Open</td>
+        <td>None</td>
+      </tr>      
     </tbody>
   </table>
 </div>
